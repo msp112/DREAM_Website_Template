@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 2
+---
+**September 3 - 8, 2023**
+
 The dataset finally gained approval, and I should have all the data for my project. I used the 
 remainder of this week to put all the important components together on my website and to fimilarize
 myself with the dataset. I will edit the 
