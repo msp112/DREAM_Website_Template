@@ -1,3 +1,9 @@
+---
+layout: post
+title: Week 3
+---
+**September 10 - 16, 2023**
+
 I met with my advisor to come up with a concrete plan on how to start the project. Beforehand, I looked through the demographics
 data to figure out the range of ages throughout development. Based on the distribution of ages, I will need to adjust my age range since the ages on
 the extreme ends are sparser than the ages in the middle of the distribution. I also tried to download the data, but I unfortunately could not. I 
