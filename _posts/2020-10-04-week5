@@ -1,0 +1,9 @@
+---
+layout: post
+title: Week 6
+---
+**October 4 - 14, 2023**
+
+Wrote code to better read the MRI files and created a key linking all the of ages to the brains. Continuing to research convolutional neural networks, important features related 
+to brain aging in childhood, and began a draft of a network that could identify a brain that is above or below the age of 10. Running into roadblocks, but may just need 
+more research to better understand CNN networks 
