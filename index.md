@@ -28,7 +28,7 @@ The aim of this project is to develop a convolutional neural network that is abl
                         model will be between 5 and 21 years of age.
 
 [My Final Report](files/finalreport.pdf)
-
+<br>
 [My Final Presentation](files/finalpresentation.pdf)
 
 ## My Blog
